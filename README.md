@@ -1,4 +1,4 @@
-# Projeto-1
+# Landing Page Responsiva
 
 ## Objetivo do Projeto
 O projeto consistiu no desenvolvimento de uma Landing Page simples implementando conceitos de Design Reponsivo, com o uso de Media Querys e boas práticas de HTML5 e CSS3. 
